@@ -3,7 +3,9 @@
 az account list-locations --output table
 
 DisplayName               Name                 RegionalDisplayName
+
 ------------------------  -------------------  -------------------------------------
+
 East US                   eastus               (US) East US
 West US 2                 westus2              (US) West US 2
 Australia East            australiaeast        (Asia Pacific) Australia East
