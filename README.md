@@ -106,3 +106,4 @@ Switzerland West          switzerlandwest      (Europe) Switzerland West
 UAE Central               uaecentral           (Middle East) UAE Central
 Brazil Southeast          brazilsoutheast      (South America) Brazil Southeast
 UK West                   ukwest               (UK) UK West
+
